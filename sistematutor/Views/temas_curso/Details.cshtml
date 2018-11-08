@@ -1,0 +1,30 @@
+﻿@model sistematutor.Models.temas_curso
+
+@{
+    ViewData["Title"] = "Detalles";
+}
+
+<h2>Detalles</h2>
+
+<div>
+    <h4>temas_curso</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nombre_tema)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.nombre_tema)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.id_curso)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.id_curso)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.id_tema">Editar</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

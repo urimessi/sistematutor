@@ -1,0 +1,41 @@
+﻿@model IEnumerable<sistematutor.Models.temas_curso>
+
+@{
+    ViewData["Title"] = "Temas de los Cursos";
+}
+
+<h2>Temas de los Cursos</h2>
+
+<p>
+    <a asp-action="Create">Agregar nuevo tema</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.nombre_tema)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.id_curso)
+                </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre_tema)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.id_curso)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id_tema">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.id_tema">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.id_tema">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

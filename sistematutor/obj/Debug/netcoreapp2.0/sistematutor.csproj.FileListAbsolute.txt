@@ -1,0 +1,11 @@
+c:\users\sc3.desktop-7rf5f18.000\source\repos\sistematutor\sistematutor\bin\Debug\netcoreapp2.0\sistematutor.deps.json
+c:\users\sc3.desktop-7rf5f18.000\source\repos\sistematutor\sistematutor\bin\Debug\netcoreapp2.0\sistematutor.runtimeconfig.json
+c:\users\sc3.desktop-7rf5f18.000\source\repos\sistematutor\sistematutor\bin\Debug\netcoreapp2.0\sistematutor.runtimeconfig.dev.json
+c:\users\sc3.desktop-7rf5f18.000\source\repos\sistematutor\sistematutor\bin\Debug\netcoreapp2.0\sistematutor.dll
+c:\users\sc3.desktop-7rf5f18.000\source\repos\sistematutor\sistematutor\obj\Debug\netcoreapp2.0\sistematutor.csproj.CoreCompileInputs.cache
+c:\users\sc3.desktop-7rf5f18.000\source\repos\sistematutor\sistematutor\obj\Debug\netcoreapp2.0\sistematutor.AssemblyInfoInputs.cache
+c:\users\sc3.desktop-7rf5f18.000\source\repos\sistematutor\sistematutor\obj\Debug\netcoreapp2.0\sistematutor.AssemblyInfo.cs
+c:\users\sc3.desktop-7rf5f18.000\source\repos\sistematutor\sistematutor\obj\Debug\netcoreapp2.0\sistematutor.csprojAssemblyReference.cache
+c:\users\sc3.desktop-7rf5f18.000\source\repos\sistematutor\sistematutor\bin\Debug\netcoreapp2.0\sistematutor.pdb
+c:\users\sc3.desktop-7rf5f18.000\source\repos\sistematutor\sistematutor\obj\Debug\netcoreapp2.0\sistematutor.dll
+c:\users\sc3.desktop-7rf5f18.000\source\repos\sistematutor\sistematutor\obj\Debug\netcoreapp2.0\sistematutor.pdb
